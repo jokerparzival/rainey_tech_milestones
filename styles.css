@@ -1,0 +1,58 @@
+.Red {
+  color: blue;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(255, 204, 51);
+}
+
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: 	rgb(230, 255, 153);
+}
+
+html {
+  background-color: rgb(181, 220, 245);
+}
+
+#ps1 {
+  font-size: 12px;
+  color: green;
+}
+
+p {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.Joker {
+  text-decoration: underline;
+  color: red;
+}
+
+.Mona {
+  text-transform: uppercase;
+  color: blue;
+}
+
+.Skull {
+  letter-spacing: 5px;
+  color: yellow;
+}
+
+.Panther {
+  text-align: right;
+  color: rgb(230, 0, 115);
+}
+
+.Fox {
+  font-style: italic;
+  color: aliceblue;
+}
+
+.Queen {
+  text-shadow: 5px 5px 4px darkcyan;
+  color: cadetblue;
+}
+
+a {
+  font-family: Arial, Helvetica, sans-serif;
+}
